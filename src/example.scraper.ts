@@ -29,5 +29,6 @@ export const exampleScrape = async () => {
     } catch(err) {
       console.log('Failed to close page and browser. Probably closed');
     }
+    throw e;
   }
 }
