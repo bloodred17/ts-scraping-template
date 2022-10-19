@@ -1,5 +1,5 @@
 {
-  "name": "ts-scraper",
+  "name": "ts-scraper-template",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "typescript": "^4.8.4"
   },
